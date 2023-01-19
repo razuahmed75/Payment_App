@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/controller/data_controller.dart';
-import 'package:flutter_application_1/screens/home/components/headSection.dart';
-import 'package:flutter_application_1/screens/home/components/pay_botton.dart';
-import 'package:flutter_application_1/utils/dimensions.dart';
+import 'package:payment_app/controller/data_controller.dart';
+import 'package:payment_app/screens/home/components/headSection.dart';
+import 'package:payment_app/screens/home/components/pay_botton.dart';
+import 'package:payment_app/utils/dimensions.dart';
 import 'package:get/get.dart';
 import 'components/list_bills.dart';
 

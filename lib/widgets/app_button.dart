@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/utils/colors.dart';
-import 'package:flutter_application_1/utils/dimensions.dart';
+import 'package:payment_app/utils/colors.dart';
+import 'package:payment_app/utils/dimensions.dart';
 
 class AppButton extends StatelessWidget {
   final String? text;

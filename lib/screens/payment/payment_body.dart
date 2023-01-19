@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/controller/data_controller.dart';
-import 'package:flutter_application_1/screens/payment/components/success_bill_tile.dart';
-import 'package:flutter_application_1/utils/colors.dart';
-import 'package:flutter_application_1/utils/dimensions.dart';
-import 'package:flutter_application_1/widgets/my_button.dart';
+import 'package:payment_app/controller/data_controller.dart';
+import 'package:payment_app/screens/payment/components/success_bill_tile.dart';
+import 'package:payment_app/utils/colors.dart';
+import 'package:payment_app/utils/dimensions.dart';
+import 'package:payment_app/widgets/my_button.dart';
 import 'package:get/get.dart';
 
 import 'components/share_and_print.dart';

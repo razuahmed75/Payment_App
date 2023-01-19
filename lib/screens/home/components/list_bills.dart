@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/controller/data_controller.dart';
-import 'package:flutter_application_1/screens/home/components/bills_card.dart';
-import 'package:flutter_application_1/utils/dimensions.dart';
+import 'package:payment_app/controller/data_controller.dart';
+import 'package:payment_app/screens/home/components/bills_card.dart';
+import 'package:payment_app/utils/dimensions.dart';
 import 'package:get/get.dart';
 
 class ListBills extends StatelessWidget {

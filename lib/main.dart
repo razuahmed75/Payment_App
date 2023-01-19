@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/dependency/dependency.dart';
+import 'package:payment_app/dependency/dependency.dart';
 import 'screens/home/home.dart';
 import 'package:get/get.dart';
 

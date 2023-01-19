@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/utils/dimensions.dart';
+import 'package:payment_app/utils/dimensions.dart';
 
 class SizedText extends StatelessWidget {
   final String text;

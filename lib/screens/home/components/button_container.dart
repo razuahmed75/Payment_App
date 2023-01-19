@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/widgets/app_button.dart';
-import 'package:flutter_application_1/utils/colors.dart';
-import 'package:flutter_application_1/utils/dimensions.dart';
+import 'package:payment_app/widgets/app_button.dart';
+import 'package:payment_app/utils/colors.dart';
+import 'package:payment_app/utils/dimensions.dart';
 
 class ButtonContainer extends StatelessWidget {
   const ButtonContainer({super.key});

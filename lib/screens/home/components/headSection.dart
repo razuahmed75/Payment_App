@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/screens/home/components/button_container.dart';
-import 'package:flutter_application_1/utils/dimensions.dart';
+import 'package:payment_app/screens/home/components/button_container.dart';
+import 'package:payment_app/utils/dimensions.dart';
 
 import 'curve_image_container.dart';
 import 'mainBackground.dart';
